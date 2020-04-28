@@ -1,6 +1,6 @@
 <?php
 
-//rectangle
+//formulaire
 //UC
   //matricule
   //prenom
